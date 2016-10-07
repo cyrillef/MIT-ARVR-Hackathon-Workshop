@@ -18,6 +18,7 @@
 
 * [Chapter 2 – Translate a model and Export it to another format](chapters/chapter-2.md#Chapter2)
   - [Request the Model Derivative to produce OBJ](chapters/chapter-2.md#RequestOBJ)
+  - [Download the OBJ file[(chapters/chapter-2.md#DownloadOBJ)
 
 * [Appendix A – More sample and demos](appendix/appendix-a.md)
 * [Appendix B – Troubleshooting](appendix/appendix-b.md)
