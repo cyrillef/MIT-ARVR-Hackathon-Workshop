@@ -502,7 +502,7 @@ program
 							"type": "obj",
 							"advanced": {
 								"modelGuid": options.guid, // from metadata
-								"objectIds": [ -1 ]
+								"objectIds": [ -1 ] // all objects from the model
 							}
 						}
 					]
