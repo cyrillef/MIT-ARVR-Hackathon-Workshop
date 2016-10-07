@@ -186,7 +186,7 @@ in the sample repo you are going to fork.
   ```
 
 * Not using git
-  - Go to the [Node.js simple server project](https://github.com/cyrillef/MIT-ARVR-Hackathon-Workshop)
+  - Go to the [MIT-ARVR-Hackathon-Workshop](https://github.com/cyrillef/MIT-ARVR-Hackathon-Workshop)
   - Download the ZIP file from [here](https://github.com/cyrillef/MIT-ARVR-Hackathon-Workshop/archive/master.zip)
   - Inflate the ZIP file on your hard drive
   - Make the inflated directory your current directory
